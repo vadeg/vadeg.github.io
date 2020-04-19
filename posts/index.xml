@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Mayber Either Option</title>
+    <link>https://vadeg.dev/posts/</link>
+    <description>Recent content in Posts on Mayber Either Option</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 19:17:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 19:46:08 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vadeg.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Mon, 30 Sep 2019 19:17:00 +0200</pubDate>
+      <title>Hello, world!</title>
+      <link>https://vadeg.dev/posts/hello-world/</link>
+      <pubDate>Mon, 03 Feb 2020 19:46:08 +0100</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://vadeg.dev/posts/hello-world/</guid>
+      <description>Let&amp;rsquo;s get the party started.</description>
     </item>
     
   </channel>
